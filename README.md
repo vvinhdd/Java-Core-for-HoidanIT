@@ -1,3 +1,3 @@
 # Learn Java
 Java core
-Hello there
+source course: https://youtu.be/7L0RLrfrBHE?si=hX31ZpLexkPFQODQ
