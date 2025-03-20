@@ -6,16 +6,17 @@ Baì giảng và lộ trình được cung cấp từ *Hỏi dân IT*. Rất c�
 
 | Name | State | Note |
 | :--- | :--- | :--- |
-| Lab01 | Hoàn thành |   |
-| Lab02 | Hoàn thành      |   |
-| Lab03 | Hoàn thành      |   |
-| Lab04 | Chưa hoàn thành |   |
-| Lab05 | Chưa hoàn thành |   |
-| Lab06 | Chưa hoàn thành |   |
+| Lab01 | Hoàn thành      | Làm quen với ngôn ngữ Java          |
+| Lab02 | Hoàn thành      | Thực hành câu điều kiện với Java    |
+| Lab03 | Hoàn thành      | Thực hành sử dụng vòng lặp với Java |
+| Lab04 | Chưa hoàn thành | Thực hành sử dụng OOP               |
+| Lab05 | Chưa hoàn thành | Java ArrayList                      |
+| Lab06 | Chưa hoàn thành | Java String                         |
 | Lab07 | Chưa hoàn thành |   |
 | Lab08 | Chưa hoàn thành |   |
 | Lab09 | Chưa hoàn thành |   |
 | Lab10 | Chưa hoàn thành |   |
+| Lab11 | Chưa hoàn thành |   |
 
 ## 22 Project Java Starter
 | No | Name | State | Level |
