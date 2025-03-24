@@ -12,7 +12,7 @@ Baì giảng và lộ trình được cung cấp từ *Hỏi dân IT*. Rất c�
 | Lab04 | Hoàn thành      | Thực hành sử dụng OOP               |
 | Lab05 | Hoàn thành      | Java ArrayList                      |
 | Lab06 | Hoàn thành      | Java String & Regular Expression    |
-| Lab07 | Chưa hoàn thành |   |
+| Lab07 | Hoàn thành      | Java Inheritance                    |
 | Lab08 | Chưa hoàn thành |   |
 | Lab09 | Chưa hoàn thành |   |
 | Lab10 | Chưa hoàn thành |   |
