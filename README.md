@@ -13,7 +13,7 @@ Baì giảng và lộ trình được cung cấp từ *Hỏi dân IT*. Rất c�
 | Lab05 | Hoàn thành      | Java ArrayList                      |
 | Lab06 | Hoàn thành      | Java String & Regular Expression    |
 | Lab07 | Hoàn thành      | Java Inheritance                    |
-| Lab08 | Chưa hoàn thành |   |
+| Lab08 | Hoàn thành      | Java Interface                      |
 | Lab09 | Chưa hoàn thành |   |
 | Lab10 | Chưa hoàn thành |   |
 | Lab11 | Chưa hoàn thành |   |
