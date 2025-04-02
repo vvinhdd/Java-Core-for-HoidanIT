@@ -2,7 +2,6 @@
 
 ## Java core
 Source course 1: https://youtu.be/7L0RLrfrBHE?si=hX31ZpLexkPFQODQ
-Baì giảng và lộ trình được cung cấp từ *Hỏi dân IT*. Rất cảm ơn anh.
 
 | Name | State | Note |
 | :--- | :--- | :--- |
@@ -19,3 +18,4 @@ Baì giảng và lộ trình được cung cấp từ *Hỏi dân IT*. Rất c�
 | Lab11 | Hoàn thành      | Processes and Threads               |
 
 ## Complete Course
+Baì giảng và lộ trình được cung cấp từ *Hỏi dân IT*. Rất cảm ơn anh.
