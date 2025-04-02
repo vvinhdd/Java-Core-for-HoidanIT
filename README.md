@@ -15,7 +15,7 @@ Baì giảng và lộ trình được cung cấp từ *Hỏi dân IT*. Rất c�
 | Lab07 | Hoàn thành      | Java Inheritance                    |
 | Lab08 | Hoàn thành      | Java Interface                      |
 | Lab09 | Hoàn thành      | Exception                           |
-| Lab10 | Chưa hoàn thành | Input & Output                      |
-| Lab11 | Chưa hoàn thành | Processes and Threads               |
+| Lab10 | Hoàn thành      | Input & Output                      |
+| Lab11 | Hoàn thành      | Processes and Threads               |
 
 ## Complete Course
